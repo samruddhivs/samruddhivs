@@ -11,18 +11,17 @@
  
 
  
- 🌱 I’m currently learning **ReactJS, AWS**
+ 🌱 I’m currently learning Machine Learning
 
-💬 Ask me about **Node.js, React, or anything [here](https://www.linkedin.com/in/nishanth-s-35b515222)**
+💬 Ask me about **Machine Learning, Python  [here](https://www.linkedin.com/in/nishanth-s-35b515222)**
 
-⚡ Fun fact **Why do programmers prefer anime villains? Because they always have the best backstories and complex motivations – just like debugging code!**
 
  </div>
  
 <div align="center"> 
-   <a href="mailto:nishanthnish708@gmail.com">
+   <a href="mailto:samruddhivs24@gmail.com">
     <img src="https://img.shields.io/badge/gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  <a href="https://www.linkedin.com/in/nishanth-s-35b515222" target="_blank">
+  <a href="http://linkedin.com/in/samruddhi-v-s-691b62270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://mrpeace-portfolio.netlify.app/" target="_blank">
@@ -35,23 +34,15 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git," style="margin-right: 20px;" />
-    <img src="https://skillicons.dev/icons?i=,python,javascript,,c," style="margin-left: 20px;" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,machinelearning" style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=,python,javascript,,c,c++," style="margin-left: 20px;" /><br>
 </div>
 
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 Play a Game 🐍</h2>
-  <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
- 
 
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
