@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git," style="margin-right: 20px;" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql,flask" style="margin-left: 20px;" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git," style="margin-right: 20px;" />
+    <img src="https://skillicons.dev/icons?i=,python,javascript,,c," style="margin-left: 20px;" /><br>
 </div>
 
 
@@ -55,15 +55,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br>
-
-<div align="center">
-    <img width="350" src="https://github-readme-stats.vercel.app/api?username=mrpeace07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img width="350" src="https://github-readme-streak-stats.herokuapp.com/?user=mrpeace07&theme=react&border_radius=10" alt="streak stats" /><br/>
-    
-</div>
 
 
 <br/><br/>
