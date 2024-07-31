@@ -8,7 +8,7 @@
 <div align="center">
  🌱 I’m currently learning Machine Learning
 
-💬 Ask me about **Machine Learning, Python [here](https://www.linkedin.com/in/nishanth-s-35b515222)**
+💬 Ask me about **Machine Learning, Python [here]([http://linkedin.com/in/samruddhi-v-s-691b62270])**
 </div>
  
 <div align="center"> 
@@ -18,9 +18,7 @@
   <a href="http://linkedin.com/in/samruddhi-v-s-691b62270" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mrpeace-portfolio.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  
 </div>
 
 <hr/>
