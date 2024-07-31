@@ -26,10 +26,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,mysql,python,javascript,c,scikit,tensorflow" style="margin-right: 03px;" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,mysql,python,javascript,c,tensorflow" style="margin-right: 03px;" />
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="scikit-learn" style="width:48px;height:48px;margin-right: 03px;" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" style="width:48px;height:48px;margin-right: 03px;" />
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" style="width:48px;height:48px;margin-right: 03px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" style="width:48px;height:48px;margin-right: 03px;" />
 </div>
 
 </div>
