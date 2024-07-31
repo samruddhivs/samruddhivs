@@ -8,7 +8,7 @@
 <div align="center">
  🌱 I’m currently learning Machine Learning
 
-💬 Ask me about **Machine Learning, Python [here]([http://linkedin.com/in/samruddhi-v-s-691b62270])**
+💬 Ask me about **Machine Learning, Python [here](http://linkedin.com/in/samruddhi-v-s-691b62270)**
 </div>
  
 <div align="center"> 
@@ -26,9 +26,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,mysql,python" style="margin-right: 03px;" />
-    <img src="https://skillicons.dev/icons?i=javascript,c,machinelearning" style="margin-left: 03px;" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,mysql,python,javascript,c,machinelearning,scikit-learn,numpy,pandas,tensorflow" style="margin-right: 03px;" />
 </div>
+
 
 <br/>
 <hr/>
